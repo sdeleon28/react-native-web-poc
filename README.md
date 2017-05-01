@@ -1,12 +1,12 @@
-# react-primitives-poc
+# react-native-web-poc
 
-Minimal POC project using react-primitives for React and React Native development of design primitives.
+Minimal POC project using react-native-web for React and React Native development of design primitives.
 
 ## Run
 
 ```
-git clone https://github.com/sdeleon28/react-primitives-poc
-cd react-primitives-poc
+git clone https://github.com/sdeleon28/react-native-web-poc
+cd react-native-web-poc
 yarn install
 react-native run-ios
 ```
